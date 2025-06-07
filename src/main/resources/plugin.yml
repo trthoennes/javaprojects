@@ -1,0 +1,8 @@
+main: org.tylley.bowspleef.BowSpleefPlugin
+version: 1.0
+name: BowSpleef
+description: A MiniGame Plugin
+api-version: 1.8.8
+commands:
+  bowspleef:
+    description: bowspleef is the base command.
